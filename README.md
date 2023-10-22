@@ -1,5 +1,8 @@
 # Project Overview
 
+<kbd>![microservice](https://github.com/ErenKarakaya01/ASP.NET-Microservices/assets/58625563/6e74a33d-fea5-4d7d-b42a-b3ca129f26cb)
+</kbd>
+
 This repository contains the source code and documentation for an extensive software development project focused on building a microservices-based application. The project covers various aspects of software development, including microservices architecture, Docker and Kubernetes deployment, database management, asynchronous messaging with RabbitMQ, and gRPC implementation. 
 
 The project's contents are organized into sections, each corresponding to a specific aspect of the application's development. Below is an overlay of what you can expect to find in this repository:
